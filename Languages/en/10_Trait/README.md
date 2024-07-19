@@ -2,8 +2,8 @@
 title: Trait
 tags:
 - Rust
--basic
--wtfacademy
+- basic
+- wtfacademy
 ---
 
 # WTF Rust minimalist introduction: Trait
