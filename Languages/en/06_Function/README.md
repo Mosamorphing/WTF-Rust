@@ -1,10 +1,9 @@
-### Title: 6. Function
-
-Tags:
+---
+title: 6. Function
+tags:
 - Rust
 - basic
 - wtfacademy
-
 ---
 
 Twitter: [@0xAA_Science](https://twitter.com/0xAA_Science)
