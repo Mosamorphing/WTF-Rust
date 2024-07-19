@@ -15,7 +15,7 @@ All code and tutorials are open source on github: [WTF-Rust](https://github.com/
 
 ## Introduction
 
-Author: [Eta](https://twitter.com/pwhattie)
+Author: [Eta](https://twitter.com/pwhattie) Translator: [Mosa](https://twitter.com/mofasasi)
 
 This article mainly introduces the functions, commands and types of Rust tests, which are full of useful information.
 
